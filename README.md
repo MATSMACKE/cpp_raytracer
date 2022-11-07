@@ -7,4 +7,4 @@ Example image:
 
 # usage
 
-`main.cpp` should hopefully be self explanatory for you to change resolution, samples, and the scene. Render an image by running `make`.
+`main.cpp` should hopefully be self explanatory for you to change resolution, samples, and the scene. Lighting can be changed on line 37 of `scene.hpp`. Render an image by running `make`.
